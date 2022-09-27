@@ -5680,7 +5680,7 @@
 																	"numoutlets" : 2,
 																	"outlettype" : [ "", "" ],
 																	"patching_rect" : [ 70.0, 47.0, 62.0, 37.0 ],
-																	"save" : [ "#N", "thispatcher", ";", "#Q", "window", "flags", "nogrow", "close", "nozoom", "float", "menu", "minimize", ";", "#Q", "window", "constrain", 50, 50, 32768, 32768, ";", "#Q", "window", "size", 806, 81, 1101, 445, ";", "#Q", "window", "title", ";", "#Q", "window", "exec", ";", "#Q", "savewindow", 1, ";", "#Q", "end", ";" ],
+																	"save" : [ "#N", "thispatcher", ";", "#Q", "savewindow", 1, ";", "#Q", "end", ";" ],
 																	"text" : "thispatcher"
 																}
 
@@ -9442,7 +9442,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-163",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -9472,7 +9472,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-164",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -9502,7 +9502,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-165",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -9532,7 +9532,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-166",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -9562,7 +9562,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-167",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -9592,7 +9592,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-168",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -9622,7 +9622,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-169",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -9652,7 +9652,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-170",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -9682,7 +9682,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-171",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -9712,7 +9712,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-172",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -9742,7 +9742,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-173",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -9772,7 +9772,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-174",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -9802,7 +9802,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-175",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -9832,7 +9832,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-176",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -9862,7 +9862,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-177",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -9892,7 +9892,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-178",
-																	"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+																	"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12492,7 +12492,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-93",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12522,7 +12522,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-94",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12552,7 +12552,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-95",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12582,7 +12582,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-96",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12612,7 +12612,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-97",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12642,7 +12642,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-98",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12672,7 +12672,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-99",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12702,7 +12702,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-100",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12732,7 +12732,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-101",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12762,7 +12762,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-102",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12792,7 +12792,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-103",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12822,7 +12822,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-104",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12852,7 +12852,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-105",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12882,7 +12882,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-106",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12912,7 +12912,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-107",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -12942,7 +12942,7 @@
 																	"fontsize" : 12.0,
 																	"hint" : "",
 																	"id" : "obj-108",
-																	"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+																	"items" : [ "Off", ",", 1, "Input 1" ],
 																	"maxclass" : "umenu",
 																	"numinlets" : 1,
 																	"numoutlets" : 3,
@@ -14503,7 +14503,7 @@
 													"fontsize" : 14.0,
 													"hint" : "",
 													"id" : "obj-80",
-													"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+													"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 													"maxclass" : "umenu",
 													"numinlets" : 1,
 													"numoutlets" : 3,
@@ -14564,7 +14564,7 @@
 													"fontsize" : 14.0,
 													"hint" : "",
 													"id" : "obj-77",
-													"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+													"items" : [ "Off", ",", 1, "Input 1" ],
 													"maxclass" : "umenu",
 													"numinlets" : 1,
 													"numoutlets" : 3,
@@ -14625,7 +14625,7 @@
 													"fontsize" : 14.0,
 													"hint" : "",
 													"id" : "obj-69",
-													"items" : [ "Off", ",", 1, "Channel 1 Out", ",", 2, "Channel 2 Out", ",", 3, "Channel 3 Out", ",", 4, "Channel 4 Out", ",", 5, "Channel 5 Out", ",", 6, "Channel 6 Out", ",", 7, "Channel 7 Out", ",", 8, "Channel 8 Out", ",", 9, "Channel 9 Out", ",", 10, "Channel 10 Out", ",", 11, "Channel 11 Out", ",", 12, "Channel 12 Out", ",", 13, "Channel 13 Out", ",", 14, "Channel 14 Out", ",", 15, "Channel 15 Out", ",", 16, "Channel 16 Out", ",", 17, "Channel 17 Out", ",", 18, "Channel 18 Out", ",", 19, "Channel 19 Out", ",", 20, "Channel 20 Out", ",", 21, "Channel 21 Out", ",", 22, "Channel 22 Out", ",", 23, "Channel 23 Out", ",", 24, "Channel 24 Out", ",", 25, "Channel 25 Out", ",", 26, "Channel 26 Out", ",", 27, "Channel 27 Out", ",", 28, "Channel 28 Out", ",", 29, "Channel 29 Out", ",", 30, "Channel 30 Out", ",", 31, "Channel 31 Out", ",", 32, "Channel 32 Out" ],
+													"items" : [ "Off", ",", 1, "Output 1", ",", 2, "Output 2" ],
 													"maxclass" : "umenu",
 													"numinlets" : 1,
 													"numoutlets" : 3,
@@ -14668,7 +14668,7 @@
 													"fontsize" : 14.0,
 													"hint" : "",
 													"id" : "obj-71",
-													"items" : [ "Off", ",", 1, "Channel 1 In", ",", 2, "Channel 2 In", ",", 3, "Channel 3 In", ",", 4, "Channel 4 In", ",", 5, "Channel 5 In", ",", 6, "Channel 6 In", ",", 7, "Channel 7 In", ",", 8, "Channel 8 In", ",", 9, "Channel 9 In", ",", 10, "Channel 10 In", ",", 11, "Channel 11 In", ",", 12, "Channel 12 In", ",", 13, "Channel 13 In", ",", 14, "Channel 14 In", ",", 15, "Channel 15 In", ",", 16, "Channel 16 In", ",", 17, "Channel 17 In", ",", 18, "Channel 18 In", ",", 19, "Channel 19 In", ",", 20, "Channel 20 In", ",", 21, "Channel 21 In", ",", 22, "Channel 22 In", ",", 23, "Channel 23 In", ",", 24, "Channel 24 In", ",", 25, "Channel 25 In", ",", 26, "Channel 26 In", ",", 27, "Channel 27 In", ",", 28, "Channel 28 In", ",", 29, "Channel 29 In", ",", 30, "Channel 30 In", ",", 31, "Channel 31 In", ",", 32, "Channel 32 In" ],
+													"items" : [ "Off", ",", 1, "Input 1" ],
 													"maxclass" : "umenu",
 													"numinlets" : 1,
 													"numoutlets" : 3,
@@ -14975,7 +14975,7 @@
 													"fontsize" : 14.0,
 													"hint" : "",
 													"id" : "obj-41",
-													"items" : 48000,
+													"items" : [ 44100, ",", 48000, ",", 88200, ",", 96000 ],
 													"maxclass" : "umenu",
 													"numinlets" : 1,
 													"numoutlets" : 3,
@@ -17154,7 +17154,7 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "", "" ],
 									"patching_rect" : [ 43.308608999999997, 130.393707000000006, 69.0, 22.0 ],
-									"save" : [ "#N", "thispatcher", ";", "#Q", "window", "flags", "nogrow", "close", "nozoom", "nofloat", "menu", "minimize", ";", "#Q", "window", "constrain", 50, 50, 32768, 32768, ";", "#Q", "window", "size", 898, 191, 1266, 664, ";", "#Q", "window", "title", ";", "#Q", "window", "exec", ";", "#Q", "savewindow", 1, ";", "#Q", "end", ";" ],
+									"save" : [ "#N", "thispatcher", ";", "#Q", "savewindow", 1, ";", "#Q", "end", ";" ],
 									"text" : "thispatcher"
 								}
 
@@ -19470,7 +19470,7 @@
 									"fontsize" : 14.0,
 									"hint" : "",
 									"id" : "obj-3",
-									"items" : [ "None", ",", "SQ - Audio", ",", "MacBook Pro Speakers", ",", "NDI Audio", ",", "ZoomAudioDevice" ],
+									"items" : [ "None", ",", "MacBook Pro Speakers", ",", "NDI Audio", ",", "ZoomAudioDevice" ],
 									"maxclass" : "umenu",
 									"numinlets" : 1,
 									"numoutlets" : 3,
@@ -19510,7 +19510,7 @@
 									"fontsize" : 14.0,
 									"hint" : "",
 									"id" : "obj-12",
-									"items" : [ "None", ",", "SQ - Audio", ",", "NDI Audio", ",", "MacBook Pro Microphone", ",", "ZoomAudioDevice" ],
+									"items" : [ "None", ",", "NDI Audio", ",", "MacBook Pro Microphone", ",", "ZoomAudioDevice" ],
 									"maxclass" : "umenu",
 									"numinlets" : 1,
 									"numoutlets" : 3,
@@ -22127,7 +22127,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-52",
-					"items" : "CAM2 (Channel 1)",
+					"items" : "<empty>",
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -22631,33 +22631,6 @@
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 930.0, 720.471162862777646, 24.0, 24.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"fontface" : 0,
-					"fontname" : "Arial",
-					"fontsize" : 12.0,
-					"id" : "obj-44",
-					"maxclass" : "jit.fpsgui",
-					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 1016.0, 826.0, 80.0, 35.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-43",
-					"linecount" : 2,
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 3,
-					"outlettype" : [ "jit_matrix", "bang", "" ],
-					"patching_rect" : [ 942.0, 754.0, 438.0, 35.0 ],
-					"text" : "jit.world @name video_champyon @floating 1 @fsaa 1 @fsmenubar 0 @enable 1 @dim 1280 720 @size 640 360"
 				}
 
 			}
@@ -23189,7 +23162,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
-					"patching_rect" : [ 854.839999999999918, 692.799999999999955, 60.0, 22.0 ],
+					"patching_rect" : [ 854.839999999999918, 687.799999999999955, 60.0, 22.0 ],
 					"text" : "router 1 2"
 				}
 
@@ -24839,14 +24812,6 @@
 					"destination" : [ "obj-161", 0 ],
 					"midpoints" : [ 223.0, 1653.0, 216.5, 1653.0 ],
 					"source" : [ "obj-162", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-43", 0 ],
-					"midpoints" : [ 966.5, 747.0, 951.5, 747.0 ],
-					"source" : [ "obj-163", 0 ]
 				}
 
 			}
@@ -26642,14 +26607,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-44", 0 ],
-					"midpoints" : [ 1161.0, 813.0, 1025.5, 813.0 ],
-					"source" : [ "obj-43", 1 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-439", 0 ],
 					"source" : [ "obj-440", 0 ]
 				}
@@ -26739,14 +26696,6 @@
 					"destination" : [ "obj-144", 0 ],
 					"midpoints" : [ 1799.5, 609.0, 1776.0, 609.0, 1776.0, 666.0, 1799.5, 666.0 ],
 					"source" : [ "obj-53", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-43", 0 ],
-					"midpoints" : [ 939.5, 747.0, 951.5, 747.0 ],
-					"source" : [ "obj-54", 0 ]
 				}
 
 			}
@@ -27624,7 +27573,7 @@
 , 			{
 				"name" : "eclipse.genjit",
 				"bootpath" : "~/Library/Application Support/Cycling '74/Max 8/Examples/jitter-examples/gen",
-				"patcherrelativepath" : "../../Library/Application Support/Cycling '74/Max 8/Examples/jitter-examples/gen",
+				"patcherrelativepath" : "../../../Library/Application Support/Cycling '74/Max 8/Examples/jitter-examples/gen",
 				"type" : "gJIT",
 				"implicit" : 1
 			}
